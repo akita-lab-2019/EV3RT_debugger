@@ -1,0 +1,10 @@
+C:\Users\ryoga\Documents\Code\EV3RT_debugger\EV3RT_debugger\bin\Debug\EV3RT_debugger.exe.config
+C:\Users\ryoga\Documents\Code\EV3RT_debugger\EV3RT_debugger\bin\Debug\EV3RT_debugger.exe
+C:\Users\ryoga\Documents\Code\EV3RT_debugger\EV3RT_debugger\bin\Debug\EV3RT_debugger.pdb
+C:\Users\ryoga\Documents\Code\EV3RT_debugger\EV3RT_debugger\obj\Debug\EV3RT_debugger.csprojAssemblyReference.cache
+C:\Users\ryoga\Documents\Code\EV3RT_debugger\EV3RT_debugger\obj\Debug\EV3RT_debugger.Form1.resources
+C:\Users\ryoga\Documents\Code\EV3RT_debugger\EV3RT_debugger\obj\Debug\EV3RT_debugger.Properties.Resources.resources
+C:\Users\ryoga\Documents\Code\EV3RT_debugger\EV3RT_debugger\obj\Debug\EV3RT_debugger.csproj.GenerateResource.cache
+C:\Users\ryoga\Documents\Code\EV3RT_debugger\EV3RT_debugger\obj\Debug\EV3RT_debugger.csproj.CoreCompileInputs.cache
+C:\Users\ryoga\Documents\Code\EV3RT_debugger\EV3RT_debugger\obj\Debug\EV3RT_debugger.exe
+C:\Users\ryoga\Documents\Code\EV3RT_debugger\EV3RT_debugger\obj\Debug\EV3RT_debugger.pdb
