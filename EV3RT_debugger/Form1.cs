@@ -3,10 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-<<<<<<< Updated upstream
-=======
 using System.IO.Ports;
->>>>>>> Stashed changes
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -16,8 +13,6 @@ namespace EV3RT_debugger
 {
     public partial class Form1 : Form
     {
-<<<<<<< Updated upstream
-=======
         void CONSOLE_INFO(string str)
         {
             Console.WriteLine("[INFO]  " + str);
@@ -28,13 +23,11 @@ namespace EV3RT_debugger
             Console.WriteLine("[ERROR] " + str);
         }
 
->>>>>>> Stashed changes
         public Form1()
         {
             InitializeComponent();
         }
-<<<<<<< Updated upstream
-=======
+    
 
         private void btnStart_Click(object sender, EventArgs e)
         {
@@ -103,6 +96,5 @@ namespace EV3RT_debugger
             }
             
         }
->>>>>>> Stashed changes
     }
 }
